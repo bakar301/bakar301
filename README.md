@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bakar301
+- 👋 Hi, I’m Abubakar
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on ...
 - 📫 you reach me through my email account: abubakarazeem32@gmail.com
 
 <!---
